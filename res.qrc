@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>res/cross.png</file>
+        <file>res/maximize.png</file>
+        <file>res/minimize.png</file>
+        <file>res/icon.png</file>
+        <file>res/resize.png</file>
+        <file>res/pressedcross.png</file>
+        <file>res/pressedmaximize.png</file>
+        <file>res/pressedminimize.png</file>
+        <file>res/pressedresize.png</file>
+        <file>res/about.png</file>
+        <file>res/buttonBase.png</file>
+        <file>res/pressedbuttonBase.png</file>
+        <file>res/fortune.png</file>
+        <file>res/noart.jpg</file>
+    </qresource>
+</RCC>
